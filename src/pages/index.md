@@ -11,11 +11,10 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -54,10 +53,42 @@ intro:
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    | "Last name" | "First name" | "SSN"         | "Test1"       | "Test2" |
+    "Test3" | "Test4" | "Final" | "Grade" |
+
+    |-------------|--------------|---------------|---------------|---------|---------|---------|---------|---------|
+
+    | "Alfalfa"   | "Aloysius"   | "123-45-6789" | 40.0          | 90.0    | 100.0   | 83.0    | 49.0    | "D-"    |
+
+    | "Alfred"    | "University" | "123-12-1234" | 41.0          | 97.0    | 96.0    | 97.0    | 48.0    | "D+"    |
+
+    | "Gerty"     | "Gramma"     | "567-89-0123" | 41.0          | 80.0    | 60.0    | 40.0    | 44.0    | "C"     |
+
+    | "Android"   | "Electric"   | "087-65-4321" | 42.0          | 23.0    | 36.0    | 45.0    | 47.0    | "B-"    |
+
+    | "Bumpkin"   | "Fred"       | "456-78-9012" | 43.0          | 78.0    | 88.0    | 77.0    | 45.0    | "A-"    |
+
+    | "Rubble"    | "Betty"      | "234-56-7890" | 44.0          | 90.0    | 80.0    | 90.0    | 46.0    | "C-"    |
+
+    | "Noshow"    | "Cecil"      | "345-67-8901" | 45.0          | 11.0    | -1.0    | 4.0     | 43.0    | "F"     |
+
+    | "Buff"      | "Bif"        | "632-79-9939" | 46.0          | 20.0    | 30.0    | 40.0    | 50.0    | "B+"    |
+
+    | "Airpump"   | "Andrew"     | "223-45-6789" | 49.0      1.0 | 90.0    | 100.0   | 83.0    | "A"     |         |
+
+    | "Backus"    | "Jim"        | "143-12-1234" | 48.0          | 1.0     | 97.0    | 96.0    | 97.0    | "A+"    |
+
+    | "Carnivore" | "Art"        | "565-89-0123" | 44.0          | 1.0     | 80.0    | 60.0    | 40.0    | "D+"    |
+
+    | "Dandy"     | "Jim"        | "087-75-4321" | 47.0          | 1.0     | 23.0    | 36.0    | 45.0    | "C+"    |
+
+    | "Elephant"  | "Ima"        | "456-71-9012" | 45.0          | 1.0     | 78.0    | 88.0    | 77.0    | "B-"    |
+
+    | "Franklin"  | "Benny"      | "234-56-2890" | 50.0          | 1.0     | 90.0    | 80.0    | 90.0    | "B-"    |
+
+    | "George"    | "Boy"        | "345-67-3901" | 40.0          | 1.0     | 11.0    | -1.0    | 4.0     | "B"     |
+
+    | "Heffalump" | "Harvey"     | "632-79-9439" | 30.0          | 1.0     | 20.0    | 30.0    | 40.0    | "C"     |
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
